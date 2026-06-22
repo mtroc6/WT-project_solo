@@ -1,0 +1,15 @@
+{
+  "students": [
+    { "id": "1", "firstName": "Anna", "lastName": "Kowalska", "courseId": "1", "academicYear": "2024/2025" },
+    { "id": "2", "firstName": "Piotr", "lastName": "Nowak", "courseId": "2", "academicYear": "2024/2025" },
+    { "id": "3", "firstName": "Maria", "lastName": "Silva", "courseId": "1", "academicYear": "2023/2024" },
+    { "id": "4", "firstName": "John", "lastName": "Smith", "courseId": "3", "academicYear": "2024/2025" },
+    { "id": "5", "firstName": "Laura", "lastName": "Müller", "courseId": "4", "academicYear": "2023/2024" }
+  ],
+  "courses": [
+    { "id": "1", "courseName": "Web Technologies" },
+    { "id": "2", "courseName": "Operating Systems" },
+    { "id": "3", "courseName": "Artificial Intelligence" },
+    { "id": "4", "courseName": "Databases" }
+  ]
+}

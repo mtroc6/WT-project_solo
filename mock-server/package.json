@@ -1,0 +1,12 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JSON-Server mock API over mock-data/bd.json",
+  "scripts": {
+    "start": "node seed.js && json-server -p 3001 db.json"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
