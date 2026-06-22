@@ -6,6 +6,15 @@ JavaScript ecosystem (json-server, Node.js + Express + MongoDB Atlas, Fetch API,
 The app manages **students** (`firstName`, `lastName`, `courseId`, `academicYear`)
 and **courses** (`courseName`). Full CRUD for students, read/create for courses.
 
+## Live deployment
+
+- Frontend (Vercel): https://wt-project-solo.vercel.app
+- API (Render): https://wt-project-solo.onrender.com
+- API docs (Swagger): https://wt-project-solo.onrender.com/api-docs
+
+> The API runs on Render's free tier, which sleeps after inactivity — the first
+> request may take ~30-60s to wake up, then it's fast.
+
 ## Structure
 
 ```
